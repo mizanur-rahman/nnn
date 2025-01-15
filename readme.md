@@ -9,7 +9,7 @@
 
 ---
 
-## Introduction
+## 📄 Introduction
 Provide a brief overview of the project, including its purpose and key objectives. Explain what the project does and the problem it solves.
 
 ---
